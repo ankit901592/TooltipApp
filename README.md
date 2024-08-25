@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tooltip App
 This is a simple React application that displays a tooltip when you hover over a button. The position of the tooltip can be customized by passing a prop to the component.
 
@@ -50,3 +51,6 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# TooltipApp
+>>>>>>> a857408ab7805f7c51372d0bb3e2454344011863
