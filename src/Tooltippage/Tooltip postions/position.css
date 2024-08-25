@@ -1,0 +1,35 @@
+.positions-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+  }
+  
+  .positions-container p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .positions-container button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .positions-container button:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .positions-container button.active {
+    background-color: #4CAF50; /* Green background when active */
+    color: white; /* White text when active */
+    border-color: #4CAF50; /* Match border color with background */
+  }
+  
