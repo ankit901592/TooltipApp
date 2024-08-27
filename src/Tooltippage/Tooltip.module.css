@@ -2,7 +2,7 @@
     padding: 10%;
     text-align: center;
 }
-.innerComponent a{
+.innerComponent button{
     background-color:purple;
     padding: 30px;
     border-radius: 50%;

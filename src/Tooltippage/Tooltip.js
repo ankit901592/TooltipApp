@@ -8,9 +8,9 @@ function TooltipShow({postion}) {
     <>
     <div className={styles.component}>
         <div className={styles.innerComponent} >
-      <a  data-tooltip-id="my-tooltip" data-tooltip-content="Hello i am tooltip!" data-tooltip-place={postion}>
+      <button  data-tooltip-id="my-tooltip" data-tooltip-content="Hello i am tooltip!" data-tooltip-place={postion}>
         ◕‿‿◕
-      </a>
+      </button>
       
       </div>
       </div>
